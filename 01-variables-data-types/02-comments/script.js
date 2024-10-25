@@ -1,3 +1,6 @@
+// This is a single line of code
+/* This is a multi-line comment */
+
 console.log("Hello, World!");
 console.log(100);
 console.log(20, 'Hello', true);
