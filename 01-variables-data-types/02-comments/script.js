@@ -7,7 +7,7 @@ console.log(20, 'Hello', true);
 
 const x = 100;
 
-console.log(x);
+console.k(x);
 
 console.error('This is an error message');
 console.warn('This is a warning message');
