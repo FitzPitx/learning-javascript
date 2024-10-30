@@ -18,4 +18,3 @@ References types or "objects" are non-primitive value and when assigned to a var
 the variable is given a reference to that value.
 
 Objects literals, arrays and functions are all references types
-
