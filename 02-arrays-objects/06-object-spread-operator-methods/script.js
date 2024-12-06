@@ -51,4 +51,3 @@ x = todo.hasOwnProperty('id');
 console.log(x);
 
 
-
