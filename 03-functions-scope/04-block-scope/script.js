@@ -19,3 +19,4 @@ if (true){
 }
 
 console.log(c); // 1500
+// console.log(b); ReferenceError: b is not defined
