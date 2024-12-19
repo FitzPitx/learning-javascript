@@ -23,7 +23,7 @@ if (x === y) {
     console.log(`${x} is equal to ${y}`);
 } else {
     console.log(`${x} is NOT equal to ${y}`);
-}
+} 
 
 if (x !== y) {
     const z = 20;
